@@ -1,5 +1,6 @@
 # Open-Source-Low-Cost-VentilatorIdea-
-Presentation of an idea to build a Low-Cost Open-Source Ventilator to deal with the shortage due to COVID19. 
+Presentation of an idea to build a Low-Cost Open-Source Ventilator to deal with the shortage due to COVID19.
+                      by            TEAM KOBAA
 
 If India ever experiences an outbreak of any virus like COVID19 is to China then there is a
 huge possibility that the epidemic will spread at an exponential rate due to our huge
@@ -18,3 +19,7 @@ shortage of ventilators, reports from Italy state that the country had to take a
 of denying its senior citizens medical support because of their low chances of survival. Such
 a decision cannot be taken in our country which is why we should work towards developing
 the technology of low cost ventilators.
+
+RESULT:
+
+The idea was in the Top 20 in the Student Track among 3000 or so applications. 
